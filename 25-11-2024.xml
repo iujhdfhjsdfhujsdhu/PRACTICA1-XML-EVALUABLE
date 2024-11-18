@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<videos>
+  <video>
+    <titulo>Ingeniero de Software Reacciona a Hackeos de Películas</titulo>
+    <link>https://www.youtube.com/watch?v=mJHa_-g4oxA</link>
+    <fecha>2024-11-12T15:30:18+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Fabric - Esta herramienta IA me voló la cabeza</titulo>
+    <link>https://www.youtube.com/watch?v=mZQDPPDPyT4</link>
+    <fecha>2024-11-05T15:30:26+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>SADSERVERS / Hong Kong - PostgreSQL endemoniado</titulo>
+    <link>https://www.youtube.com/watch?v=NieCK4nl5G0</link>
+    <fecha>2024-10-29T15:30:09+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Qué pasó con el cartel de EL DOPOSITO?</titulo>
+    <link>https://www.youtube.com/watch?v=Ii7uODR5PVU</link>
+    <fecha>2024-10-18T14:39:08+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>10 años de Kubernetes</titulo>
+    <link>https://www.youtube.com/watch?v=et0f-USK9fY</link>
+    <fecha>2024-10-15T15:30:11+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>SADSERVERS / Monaco - Password oculta</titulo>
+    <link>https://www.youtube.com/watch?v=syNoO1Qbh60</link>
+    <fecha>2024-10-04T15:41:51+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>EL DOPOSITO #tech #nginx</titulo>
+    <link>https://www.youtube.com/watch?v=88OQOJLSfMA</link>
+    <fecha>2024-09-25T18:51:08+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>TUVE que arreglar esto</titulo>
+    <link>https://www.youtube.com/watch?v=HwaMjGSeGsU</link>
+    <fecha>2024-09-24T15:30:42+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Cyclops para Kubernetes</titulo>
+    <link>https://www.youtube.com/watch?v=JhVaA0G-tAs</link>
+    <fecha>2024-09-13T15:30:11+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Resolviendo un Error Inexplicable: La Historia del EXPERTO que salvó una empresa</titulo>
+    <link>https://www.youtube.com/watch?v=SW_z6qZkzMM</link>
+    <fecha>2024-09-03T15:30:09+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>SADSERVERS / Pokhara - Problema con SSH</titulo>
+    <link>https://www.youtube.com/watch?v=Uoq3eCj7sYE</link>
+    <fecha>2024-08-30T15:30:16+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Se viene Nerdearla 2024</titulo>
+    <link>https://www.youtube.com/watch?v=e4SUGtubVns</link>
+    <fecha>2024-08-16T11:43:09+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>El incidente de Crowdstrike de Julio 2024</titulo>
+    <link>https://www.youtube.com/watch?v=5rH2177CI-E</link>
+    <fecha>2024-08-13T15:30:01+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>Me eché solo</titulo>
+    <link>https://www.youtube.com/watch?v=KjJdN3GmzYg</link>
+    <fecha>2024-08-07T15:30:09+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+  <video>
+    <titulo>La historia de la app CARA es interesante</titulo>
+    <link>https://www.youtube.com/watch?v=LpTGqLIbMiU</link>
+    <fecha>2024-07-30T15:30:08+00:00</fecha>
+    <autor>Pelado Nerd</autor>
+  </video>
+</videos>

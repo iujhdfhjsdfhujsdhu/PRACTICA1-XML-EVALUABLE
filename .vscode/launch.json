@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RSSReader",
+            "request": "launch",
+            "mainClass": "com.main.RSSReader",
+            "projectName": "PRACTICA1 XML EVALUABLE_a5d08e2c"
+        },
+        {
+            "type": "java",
+            "name": "VideoEntry",
+            "request": "launch",
+            "mainClass": "com.main.VideoEntry",
+            "projectName": "PRACTICA1 XML EVALUABLE_a5d08e2c"
+        },
+        {
+            "type": "java",
+            "name": "Launch GestorArchivos",
+            "request": "launch",
+            "mainClass": "GestorArchivos",
+            "console": "integratedTerminal"
+        }
+    ]
+}
